@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sahi baat hai!"
 date:   2016-05-22 07:27:06 -0400
 categories: jekyll update
 ---
